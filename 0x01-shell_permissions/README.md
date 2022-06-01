@@ -1,1 +1,1 @@
-chmod -R a+X
+mkdir
