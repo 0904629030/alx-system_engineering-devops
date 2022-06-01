@@ -1,1 +1,1 @@
-whoami
+chown
