@@ -1,1 +1,1 @@
-chgrp
+chown
